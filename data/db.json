@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "title": "First blog",
+            "body": "lorem ipsum blah blah",
+            "author": "mario",
+            "id": 1
+        },
+        {
+            "title": "Second blog",
+            "body": "lorem ipsum blah blah",
+            "author": "Luigi",
+            "id": 2
+        },
+        {
+            "title": "Third blog",
+            "body": "lorem ipsum blah blah",
+            "author": "usama",
+            "id": 3
+        }
+    ]
+}
